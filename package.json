@@ -1,14 +1,14 @@
 {
   "name": "git-guppy",
   "description": "Simple git-hook integration for your gulp workflows.",
-  "homepage": "https://github.com/therealklanni/git-guppy",
-  "author": "Kevin Lanni (https://github.com/therealklanni)",
+  "homepage": "https://github.com/ak-funke/git-guppy",
+  "author": "Kevin Lanni (https://github.com/ak-funke)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/therealklanni/git-guppy.git"
+    "url": "https://github.com/ak-funke/git-guppy"
   },
   "bugs": {
-    "url": "https://github.com/therealklanni/git-guppy/issues"
+    "url": "https://github.com/ak-funke/git-guppy/issues"
   },
   "license": "MIT",
   "keywords": [
